@@ -72,7 +72,7 @@ namespace Wpf_animatsiya_41
             gradientBrush.StartPoint = new Point(0, 0);
             gradientBrush.EndPoint = new Point(1, 1);
 
-            var stop1 = new GradientStop(Colors.Red, 0);
+            var stop1 = new GradientStop(Colors.White, 0);
             var stop2 = new GradientStop(Colors.Blue, 1);
 
             gradientBrush.GradientStops.Add(stop1);
