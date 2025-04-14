@@ -40,7 +40,7 @@
        Margin="50 100">
                         <Rectangle.Fill>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
-                                <GradientStop Offset="0" Color="Red"/>
+                                <GradientStop Offset="0" Color="Blue"/>
                                 <GradientStop Offset="1" Color="Yellow"/>
                             </LinearGradientBrush>
                         </Rectangle.Fill>
