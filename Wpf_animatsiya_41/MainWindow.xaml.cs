@@ -81,7 +81,7 @@ namespace Wpf_animatsiya_41
 
             var colorAnim1 = new ColorAnimation
             {
-                From = Colors.Red,
+                From = Colors.AliceBlue,
                 To = Colors.Orange,
                 Duration = TimeSpan.FromSeconds(2),
                 AutoReverse = true,
